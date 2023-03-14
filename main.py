@@ -441,6 +441,6 @@ async def on_ready():
     await client.change_presence(activity=act)
 
 try:
-    client.run('OTc4NTUwOTMyMTE3ODAzMDY5.GN7XqQ.0wo6t49TUvgV0T8Ey2wPAiT6SrEELHwr2l_cUU')
+    client.run('TOKEN HERE')
 except:
     raise
